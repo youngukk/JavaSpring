@@ -1,0 +1,4 @@
+browser-choice=0
+browsers=<?xml version\="1.0" encoding\="UTF-8"?>\n<web-browsers current\="1">\n<system/>\n<external location\="/Applications/Google Chrome.app" name\="Chrome"/>\n</web-browsers>
+eclipse.preferences.version=1
+internalWebBrowserHistory=http\://localhost\:8080/test/|*|http\://localhost\:8080/test/\n|*|http\://localhost\:8080/test/\n\n|*|http\://localhost\:8080/test/WEB-INF/views/home.jsp|*||*|file\:/Users/user/Documents/workspace/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1628932758442/index.html|*|file\:/Applications/SpringToolSuite4.app/Contents/Eclipse/plugins/org.springsource.ide.eclipse.commons.gettingstarted_3.9.17.202106210631-RELEASE/resources/welcome/index.html|*|
